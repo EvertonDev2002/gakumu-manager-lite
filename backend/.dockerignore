@@ -1,0 +1,51 @@
+# Version control
+
+.git
+.gitignore
+
+# Dependencies
+
+node_modules
+
+# IDE
+
+.vscode
+.idea
+_.swp
+_.swo
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Build outputs
+
+dist
+build
+\*.log
+
+# Tests
+
+test
+coverage
+_.test.ts
+_.spec.tsjest.config.js
+
+# Documentation
+
+README.md
+docs
+
+# Environment files
+
+.env
+.env.local
+.env.\*.local
+
+# Docker
+
+Dockerfile
+.dockerignore
+docker-compose.yml
+my-compose-project

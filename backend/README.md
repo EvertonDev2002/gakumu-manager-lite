@@ -511,10 +511,6 @@ CMD ["node", "dist/main.js"]
 - [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/)
 - [Security](https://docs.docker.com/engine/security/)
 
-## 📝 Licença
-
-UNLICENSED - Projeto acadêmico
-
 ## 👥 Autores
 
 Projeto desenvolvido para a faculdade.
